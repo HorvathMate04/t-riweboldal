@@ -7,8 +7,8 @@ function checkAnswers() {
 
     const correctAnswers = {
         question1: 'plebejusok',
-        question2: 'constantinápoly',
-        question3: 'lübeck'
+        question2: 'levantei',
+        question3: 'városi önkormányzat'
     };
 
     let correctCount = 0;
